@@ -1,0 +1,12 @@
+---
+version: '3.9'
+services:
+  tomcat:
+    env_file: .env
+    ports:
+      - "server_port:8080"
+    image: "hclcr.io/voltmx/voltmx-foundry-all:$FABRIC_BUILD_VERSION"
+    container_name: FABRIC_CONTAINER_NAME
+    #volumes:
+      #- "keystore_file_path:/usr/local/tomcat/keystoreFile.jks"
+    restart: always

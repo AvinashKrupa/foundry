@@ -1,0 +1,23 @@
+---
+version: '3.9'
+services:
+  foundry_mysql:
+    image: mysql:8.0.31
+    restart: always
+    container_name: foundry-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: "${DB_PASS}"
+    networks:
+      - foundry_network
+  flyway:
+    env_file: .env
+    image: "hclcr.io/voltmx/voltmx-foundry-db:$FABRIC_DATABASE_BUILD_VERSION"
+    container_name: FLYWAY_CONTAINER_NAME
+    depends_on:
+      - foundry_mysql
+    networks:
+      - foundry_network
+
+networks:
+  foundry_network:
+    name: foundry-network

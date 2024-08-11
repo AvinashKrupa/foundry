@@ -1,0 +1,7 @@
+---
+version: '3.9'
+services:
+  flyway:
+    env_file: .env
+    image: "hclcr.io/voltmx/voltmx-foundry-db:$FABRIC_DATABASE_BUILD_VERSION"
+    container_name: FLYWAY_CONTAINER_NAME

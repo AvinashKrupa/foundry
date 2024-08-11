@@ -1,0 +1,186 @@
+LICENSE INFORMATION DOCUMENT	 
+ 
+Program Name: 	 
+HCL Volt MX 9.5.15
+  
+The following terms apply to the use of the Program: 
+
+Definitions:
+Licensee. For the purposes of this License Information Document, Licensee shall also mean Customer, an 
+End User or other holder of an entitlement to which the License Information Document relates.
+ 
+  
+Limited use right 	 
+As described in the HCL Master License Agreement available at: 
+https://www.hcltechsw.com/wps/portal/resources/master-agreements or the applicable agreement between 
+HCL and Licensee ("MLA") and this License Information Document, HCL grants Licensee a limited 
+right to use the Program. This right is limited to the level of Authorized Use defined in License Metric 
+below or other specified level of use, paid for by Licensee and evidenced by the proof of entitlement. 
+Licensee's use may also be subject to other restrictions as prescribed in this License Information 
+Document.
+
+Supporting Programs
+Supporting programs are additional software provided to Licensee to support the operation and 
+functionality of the Program (“Supporting Programs”). Licensee is authorized to install and use the 
+Supporting Programs listed below in accordance with the license grant in the Master License Agreement, 
+the relevant Order or such other relevant agreement for the Program only. The Supporting Programs may 
+not be used for any other purpose. 
+A Supporting Program may be subject to the terms of a separate License Information Document 
+(published here: HCL License Agreements (hcltechsw.com) and those terms, if any, shall also apply to 
+the use of that Supporting Program. In the event of conflict, the terms in this License Information 
+document supersede the terms of the Supporting Program. Sufficient entitlements to the Program must be 
+obtained, as a whole, to cover installation and use of all of the Supporting Programs unless separate 
+entitlements are provided within this License Information document. When Licensee's right to use the 
+Program expires or terminates, Licensee must discontinue use, destroy or promptly return all copies of the 
+Supporting Programs to HCL or the party from whom the Program was acquired. If use of the Supporting 
+Programs is required beyond the limits of the Proof of Entitlement please contact a HCL sales 
+representative or the relevant third party to obtain the appropriate license. 
+The following are Supporting Programs licensed with the Program: 
+
+•	HCL Leap
+
+The following restrictions apply to the use of the Supporting Programs:
+Notwithstanding any provision in this License Information document, Licensee is permitted to use only 
+the following components or functions of the identified Supporting Program:
+
+•	HCL Leap may only be used by Volt MX B2E license holders and for an equivalent number of 
+entitled users. 
+
+•	The entitlement to HCL Leap provided by Volt MX does not include entitlement to IBM 
+WebSphere Application Server Network Deployment or to IBM DB2 Advanced Workgroup Server 
+Edition ("IBM DB2").
+
+
+Software Development Kit  	 
+If the Program includes a Software Development Kit ("SDK"), the terms and conditions of this 
+paragraph apply solely for the use of the SDK.  The SDK may include software, APIs and 
+associated documentation.  The SDK is provided solely for Licensee's internal use to develop 
+software that enables the integration of third party software or hardware with the Program, or to 
+develop software that functions with the Program, such as an agent.  Licensee’s use of the SDK 
+is restricted solely to enhance Licensee’s internal use of the Program.  No distribution rights of 
+any kind are granted to Licensee regarding the Program.  In addition to the limitations on use set 
+forth in the MLA and License Information Document, Licensee may not reproduce, disclose, 
+market, or distribute the SDK or the documentation or any applications containing any 
+executable versions of the SDK to third parties, on the internet, or use such executables in excess 
+of the applicable authorized use limitation.  If there is a conflict between the terms of this section 
+and the terms of any other section in MLA and License Information Document, the terms of this 
+section will prevail solely with respect to the use of the SDK. TO THE MAXIMUM EXTENT 
+PERMITTED BY APPLICABLE LAW, AND NOTWITHSTANDING ANYTHING 
+CONTAINED HEREIN TO THE CONTRARY, THE SDK IS PROVIDED AND LICENSED 
+"AS IS" WITHOUT ANY WARRANTY OR REPRESENTATION OF ANY KIND, EITHER 
+EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR 
+REPRESENTATIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR 
+FITNESS FOR PURPOSE, AS WELL AS ANY EXPRESS WARRANTIES PROVIDED 
+ELSEWHERE IN THIS AGREEMENT. HCL WILL NOT BE LIABLE FOR ANY COSTS OR 
+DAMAGES AND WILL NOT INDEMNIFY OR DEFEND LICENSEE TO THE EXTENT 
+SUCH ACTION IS BASED UPON A CLAIM ARISING FROM SDK.
+
+Redistributables 	 
+The Program may include  third party re-distributable components listed in the table below 
+("Redistributable Code") which Licensee is authorized to install use and redistribute for its own internal 
+business purposes or where permitted and as relevant, as part and in support of Licensee’s application. 
+Such use shall be in accordance with any applicable third party license terms and conditions.  When 
+Licensee's right to use the Program expires or terminates and unless otherwise agreed to by the Parties in 
+the MLA, Licensee must discontinue use, destroy or promptly return all copies of the Redistributable 
+Code to HCL.
+
+Source Components and Sample Materials   
+The Program may include some components in source code form ("Source Components") and other 
+materials identified as "Sample Materials" Licensee may copy and modify Source Components and 
+Sample Materials for internal use only provided such use is within the limits of the license rights under 
+this License Information document and Agreement, provided however that Licensee may not alter or 
+delete any copyright information or notices contained in the Source Components or Sample 
+Materials. HCL provides the Source Components and Sample Materials without obligation of support and 
+"AS IS", WITH NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING 
+THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE 
+IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A 
+PARTICULAR PURPOSE. 
+ 
+Privacy 	 
+Licensee acknowledges and agrees that HCL may use third party software, cookie and tracking 
+technologies to collect, maintain, process and use analytics data and personal information in gathering 
+product usage statistics and information designed to help improve user experience and/or to tailor	 
+interactions with users in accordance with the HCL Privacy Statement, available at:	 
+https://www.hcltech.com/privacy-statement. 
+
+
+Third Party Data and Services 
+The Program may contain links to or be used to access third party data services, databases, web services, 
+software, or other third party content (all, "content"). Access to this content is provided "AS-IS", WITH 
+NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF 
+TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE AND THE IMPLIED WARRANTIES 
+AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+Access can be terminated by the relevant third parties at their sole discretion at any time. In the event 
+that Third Party Software is included in the Program(s), such Third Party Software is made 
+available to Licensee in accordance with the licenses for such Third Party Software. Licensee may 
+be required to enter into separate agreements with the third parties for the access to or use of such content. 
+HCL is not a party to any such separate agreements and as an express condition of this license Licensee 
+agrees to comply with the terms of such separate agreements. 
+
+Program-unique Terms 
+
+The following component parts are licensed for use with the Program 
+HCL Volt Flare 
+HCL Volt Foundry 
+HCL Volt Iris 
+
+The following restrictions apply to the use of the Program
+Israel. This product requires, for each Customer in Israel, an Encryption License import from MOD, if not 
+for internal use.	 
+France. French encryption import requirements met – ANSSI Declaration Number 21060215, dated 
+15JUN2021. 	
+
+Metric
+The following units of measure may apply to Licensee's use of the Program:
+
+”Unique User”
+User is a unique person or entity that uses any customer application, developed on the HCL Volt MX 
+software, at least once per any contract year and is identified by either their user ID when authenticating 
+within the application or by a unique device identifier when using the application without authenticating.  
+Multiple devices used under the same authenticated user ID count as one User.  Multiple devices used by 
+anonymous users each count as a User.  The Program may be installed on any number of computers or 
+servers and each Unique User may have simultaneous access to any number of instances of the Program 
+at one time. Licensee must obtain separate, dedicated entitlements for each Unique User given access to 
+the Program in any manner directly or indirectly (for example: via a multiplexing program, device, or 
+application server) through any means. An entitlement for an Authorized User is unique to that Unique 
+User and may not be shared, nor may it be reassigned other than for the permanent transfer of the Unique 
+User entitlement to another person or entity.
+
+
+
+Named User
+Named User is defined as an employee, contractor, or outsource provider under the employment (direct 
+or contractually) of the Customer or Customer’s member organizations with a unique identifying 
+username, password, or combination of the two that uses a B2E use case app at least once in a standard 
+calendar quarter. Multiple devices used under the same username, password, or combination of the two, 
+count as one Named User. 
+
+B2E/B2B
+B2E Use Case is defined as apps designed for an audience of employees, contractors, non-employee 
+partners, affiliates or outsource providers under the employment (directly or contractually) of the 
+customer/company.  
+
+B2C 
+B2C Use Cases are defined as apps designed for an audience of non-employee customers not supported 
+by the B2E use case. Each use case licensed by Customer, supported by a hosted cloud environment, 
+will require a separate cloud instance for each use case. The maximum number of apps that can be 
+hosted on any one cloud instance is twenty.
+
+Session 
+Session is defined as user interaction with an application either as an interactive session or triggered 
+application logic executed in the background as a non-interactive session. The Session begins when the 
+app is started. It is continued until the app is idle for thirty (30) minutes or until the user ends the app 
+process or operating system explicitly closing the app. The maximum duration for a session is four (4) 
+hours. If an app session continues for four (4) hours, a new session is automatically created. 
+
+Supported Channels 
+Supported Channels means a specified device category or other channel supported by the platform, 
+which include one or more of the following: (i) native applications on handheld mobile devices; (ii) native 
+applications on tablet devices; (iii) mobile web browser applications for handheld mobile devices and 
+tablets); (iv) desktop web browser applications; and (v) progressive web applications. 
+ 
+
+
+  
+
+
